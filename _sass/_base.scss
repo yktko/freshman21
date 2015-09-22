@@ -113,15 +113,13 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: 36px
+  margin-left: 36px;
+  margin-bottom: 1em;
+  margin-top: 0.2em;
 }
 
-li {
-/*  > ul,
-  > ol {
-  */
+ul > li, ol > li {
     margin-bottom: 0.6em;
- /* } */
 }
 
 
