@@ -30,7 +30,11 @@ layout: default
     </header>
 
     <article class="post-content" itemprop="articleBody">
-      {{ post.content }}
+      {{ post.excerpt }}
+
+      <div class="read-more">
+        <a href="{{ site.baseurl }}{{ post.url }}">→続きを読む</a>
+      </div>
     </article> <hr />
     
     {% endfor %}
