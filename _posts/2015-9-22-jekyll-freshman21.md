@@ -35,4 +35,4 @@ category: code
 * ローカルにcloneしたリポジトリをgithubに上げる
   * [【githubエラー】fatal: remote origin already exists.の対処](http://d.hatena.ne.jp/iwahei0813/20140324/1395652080)
 
-これ以外では各種CSSのサイトとChromeのDevelopperモード。
+これ以外では各種CSSのサイトとChromeのDevelopperモード。iPhoneのviewport設定とか。
