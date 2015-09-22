@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jekyllテスト
+category: code
 ---
 
 Jekyllのテストページ
