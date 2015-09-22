@@ -27,6 +27,7 @@ category: code
   * 変数 <https://jekyllrb.com/docs/variables/>
   * excerpt(抜粋)一覧表示の時は最初のセンテンスだけ表示するようにした<https://jekyllrb.com/docs/posts/>
   * markdownの書き方あれこれ<http://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/>
+  * permalinkの修正`_config.yml`にpermalinkを設定すればよい<https://jekyllrb.com/docs/permalinks/>
 
 * Favicon Generator (Favicon作成)
   * <http://www.favicon-generator.org/>
