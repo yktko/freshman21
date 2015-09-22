@@ -26,6 +26,7 @@ category: code
   * テストのやりかた→`jekyll serve`でローカルで環境を立ち上げ、`http://127.0.0.1:4000/`にアクセスする
   * 変数 <https://jekyllrb.com/docs/variables/>
   * excerpt(抜粋)一覧表示の時は最初のセンテンスだけ表示するようにした<https://jekyllrb.com/docs/posts/>
+  * markdownの書き方あれこれ<http://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/>
 
 * Favicon Generator (Favicon作成)
   * <http://www.favicon-generator.org/>
