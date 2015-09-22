@@ -51,7 +51,7 @@ ul, ol, dl, figure,
   margin-left: auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
-  padding-top:30px;
+  padding-top:10px;
 
   background-color:#fff;
   margin-top:20px;
@@ -113,14 +113,15 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: $spacing-unit;
+  margin-left: 36px
 }
 
 li {
-  > ul,
+/*  > ul,
   > ol {
-    margin-bottom: 0;
-  }
+  */
+    margin-bottom: 0.6em;
+ /* } */
 }
 
 

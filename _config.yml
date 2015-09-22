@@ -1,21 +1,22 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
-baseurl: "/freshman21" # the subpath of your site, e.g. /blog
-url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
-locale: en_US
+title: yukitaka.log
+tagline: 
+author: Yukitaka Ohmura
+email: 
+description: "まとまった文章を書くのに使っています。"
+keywords: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yktko.github.io" # the base hostname & protocol for your site
+locale: ja_JP
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
-favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
+twitter_username: yktko
+github_username:  yktko
+facebook_username: yukitaka.ohmura
+disqus_shortname: 
+favicon: /images/favicon.ico
+aboutme: 日本酒とオープンソースを愛する、新しモノ好きのITインフラマネージャ＆エンジニアです。
+aboutme_photo: /images/mii_yom.png
 
 
 ### Site setting:
@@ -55,12 +56,9 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-    - name: Freshman21
-      href: http://yulijia.net/freshman21
-      title: Another Jekyll blog theme
-    - name: author's website
-      href: http://yulijia.net/
-      title: Lijia Yu's website
+    - name: yktk
+      href: http://yktko.github.io
+      title: yukitaka.log
 
 
 ### Build settings

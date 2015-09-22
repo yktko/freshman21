@@ -7,9 +7,9 @@
 $base-font-family: 'Open Sans', Helvetica, Arial, sans-serif !important;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.6em;
+$base-line-height: 1.5;
 
-$spacing-unit:     15px;
+$spacing-unit:     20px;
 
 $text-color:       #111;
 $background-color: #f9f9f9;
@@ -53,8 +53,10 @@ $on-laptop:        800px;
 @import
 "base",
 "layout",
+"social",
 "_syntax-highlighting-native" // "syntax-highlighting"
 ;
 
 @import url('http://fonts.googleapis.com/css?family=Open+Sans');
+@import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
 

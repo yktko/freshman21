@@ -7,17 +7,17 @@
 }
 
 .site-title {
-  font-size: 48px;
-  line-height: 56px;
+  font-size: 32px;
+  line-height: 1.5;
   letter-spacing: -1px;
-  margin-bottom: 0;
+  margin-bottom: 10px;
   text-align:center;
   a{
     &,
     &:visited
     &:hover {
       color: $brand-top-color; //$grey-color-dark
-      border-bottom: 1px dotted;
+/*      border-bottom: 1px dotted; */
       text-decoration: none;
     }
   }
@@ -160,7 +160,7 @@
 
 .post-link {
   display: block;
-  font-size: 38px;//42px;
+  font-size: 28px;//42px;
 }
 
 
@@ -178,12 +178,12 @@
 }
 
 .post-title {
-  font-size: 38px;//42px;
+  font-size: 28px;//42px;
   letter-spacing: -1px;
-  line-height: 1;
+  line-height: 1.2;
 
   @include media-query($on-laptop) {
-    font-size: 36px;
+    font-size: 28px;
   }
 }
 
@@ -216,33 +216,36 @@
   p { padding:$spacing-unit/5 0; } 
   //margin-bottom: $spacing-unit;
   h1 { 
-    font-size: 38px;
-    line-height:1em;
+    font-size: 28px;
+    line-height:1.1;
     @include media-query($on-laptop){
-      font-size: 36px;
+      font-size: 28px;
     }
 
   }
   h2 {
-    font-size: 32px;
-    line-height:1em;
+    font-size: 24px;
+    line-height:1.1;
+    margin-top: 1em;
     @include media-query($on-laptop) {
-      font-size: 28px;
+      font-size: 24px;
     }
   }
 
   h3 {
-    font-size: 26px;
-    line-height:1em;
+    font-size: 20px;
+    line-height:1.1;
+    margin-top: 1em;
 
     @include media-query($on-laptop) {
-      font-size: 22px;
+      font-size: 20px;
     }
   }
 
   h4 {
-    font-size: 20px;
-    line-height:1em;
+    font-size: 18px;
+    line-height:1.1;
+    margin-top: 1em;
 
     @include media-query($on-laptop) {
       font-size: 18px;

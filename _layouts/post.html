@@ -21,11 +21,16 @@ layout: default
     {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y" }}
     </time>
     </p>
+
+    {% include social_script.html%}
   </header>
 
   <article class="post-content" itemprop="articleBody">
     {{ content }}
   </article>
+
+  {% include social.html%}
+
   <hr />
 </div>
 
