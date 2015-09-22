@@ -23,8 +23,9 @@ category: code
 * Jekyll関係
   結局Jekyllは手元のMacにインストールして、ローカルで動作確認を行い、GitHubにpushしている。
   * 導入 <http://jekyllrb.com/docs/installation/>
-  * テスト "jekyll serve"でローカルで環境を立ち上げた跡、http://127.0.0.1:4000/にアクセスしてる
+  * テストのやりかた→`jekyll serve`でローカルで環境を立ち上げ、`http://127.0.0.1:4000/`にアクセスする
   * 変数 <https://jekyllrb.com/docs/variables/>
+  * excerpt(抜粋)一覧表示の時は最初のセンテンスだけ表示するようにした<https://jekyllrb.com/docs/posts/>
 
 * Favicon Generator (Favicon作成)
   * <http://www.favicon-generator.org/>

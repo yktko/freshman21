@@ -12,7 +12,7 @@
 /* デスクトップPCでは高さを拡張する */
 @media screen and ( min-width:480px ) {
   .social-area-syncer {
-     min-height: 89px;
+     min-height: 60px;
   }
 }
 
@@ -23,8 +23,8 @@
 ul.social-button-syncer
 {
   width: 238px ;
-  margin: 24px auto ;
-  padding: 0 ;
+  margin: 0;
+  padding: 0;
   border: none ;
   list-style-type: none ;
 }
