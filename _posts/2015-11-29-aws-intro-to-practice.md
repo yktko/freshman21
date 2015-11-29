@@ -6,7 +6,7 @@ category: 書評
 著者の「リーダー」こと@iaraさんから献本頂きました。ありがとうございます。
 発売早々に増版が決まったそうで、発売祝いブログのつもりが増版応援ブログになってしまいました。
 
-![](http://images-jp.amazon.com/images/P/4774176737.09.MZZZZZZZ.jpg)
+[![](http://images-jp.amazon.com/images/P/4774176737.09.MZZZZZZZ.jpg)](http://www.amazon.co.jp/dp/4774176737)
 
 
 ## 概要
