@@ -63,6 +63,6 @@ Blogroll:
 
 ### Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 paginate: 5
 permalink: /:year/:month/:day/:title
