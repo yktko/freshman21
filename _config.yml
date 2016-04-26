@@ -66,3 +66,8 @@ markdown: kramdown
 highlighter: rouge
 paginate: 5
 permalink: /:year/:month/:day/:title
+
+gems: [jekyll-paginate]
+
+
+
