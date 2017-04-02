@@ -217,6 +217,7 @@
   //margin-bottom: $spacing-unit;
   h1 { 
     font-size: 28px;
+    font-weight: bold;
     line-height:1.1;
     margin-top: 1em;
     @include media-query($on-laptop){
